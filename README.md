@@ -9,16 +9,22 @@
 <body>
     <!-- Cabeçalho -->
     <header>
-        <h1>Breve Virá - Estudo Bíblico</h1>
-        <p>Por Henrique Berg</p>
+        <header style="text-align: center;">
+    <!-- Adicione a imagem -->
+    <img src="images/biblia-aberta.png" alt="Bíblia aberta" style="width: 300px; height: auto; margin-top: 20px;">
+    
+    <!-- Título e descrição -->
+    <h1>Breve Virá - Estudo Bíblico</h1>
+    <p>Um estudo profundo sobre as profecias da volta de Jesus Cristo.</p>
+</header>
+        
     </header>
 
     <!-- Seção Introdução -->
     <section id="intro">
         <h2>Apresentação</h2>
         <p>Descubra verdades bíblicas essenciais neste estudo profundo e transformador.</p>
-        <img src="images/open-bible.png" alt="Bíblia Aberta">
-    </section>
+        <img src="images
 
     <!-- Seção Tópicos -->
     <section id="topics">
