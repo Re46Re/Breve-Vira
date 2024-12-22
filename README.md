@@ -11,7 +11,7 @@
     <header>
         <header style="text-align: center;">
     <!-- Adicione a imagem -->
-    <img src="images/biblia-aberta.png" alt="Bíblia aberta" style="width: 300px; height: auto; margin-top: 20px;">
+    <img src="images/biblia-aberta.png" alt="Bíblia Aberta" style="width: 300px; height: auto; margin-top: 20px;">
     
     <!-- Título e descrição -->
     <h1>Breve Virá - Estudo Bíblico</h1>
