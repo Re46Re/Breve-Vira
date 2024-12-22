@@ -38,7 +38,13 @@
         <h2>Baixe o Estudo Completo</h2>
         <a href="downloads/curso-breve-vira.pdf" class="button">Baixar PDF</a>
     </section>
-
+<section>
+    <h2>Baixe o Estudo "Breve Virá"</h2>
+    <p>Para estudar mais sobre as profecias bíblicas, faça o download do arquivo completo em PDF:</p>
+    <a href="curso-breve-vira.pdf" download style="font-size: 18px; color: blue; text-decoration: underline;">
+        📥 Clique aqui para baixar o PDF
+    </a>
+</section>
     <!-- Rodapé -->
     <footer>
         <p>&copy; 2024 Henrique Berg | Todos os direitos reservados.</p>
