@@ -41,3 +41,10 @@
     </footer>
 </body>
 </html>
+<section>
+    <h2>Baixe o Estudo "Breve Virá"</h2>
+    <p>Para estudar mais sobre as profecias bíblicas, faça o download do arquivo completo em PDF:</p>
+    <a href="curso-breve-vira.pdf" download style="font-size: 18px; color: blue; text-decoration: underline;">
+        📥 Clique aqui para baixar o PDF
+    </a>
+</section>
