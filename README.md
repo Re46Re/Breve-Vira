@@ -11,7 +11,7 @@
     <header>
         <header style="text-align: center;">
     <!-- Adicione a imagem -->
-    <img src="images/biblia-aberta.png" alt="Bíblia Aberta" style="width: 300px; height: auto; margin-top: 20px;">
+    <img src="images/arquivo-1.png" alt="Bíblia Aberta" style="width: 300px; height: auto; margin-top: 20px;">
     
     <!-- Título e descrição -->
     <h1>Breve Virá - Estudo Bíblico</h1>
@@ -75,7 +75,7 @@
             <h2>Imagens Inspiradoras</h2>
             <div>
                 <!-- Primeira imagem -->
-                <img src="images/biblia-aberta.png" alt="Cena profética divina" style="width: 300px; height: auto;">
+                <img src="images/arquivo-1.png" alt="Cena profética divina" style="width: 300px; height: auto;">
 
                 <!-- Segunda imagem -->
                 <img src="images/arquivo-2.png" alt="Figura em oração celestial" style="width: 300px; height: auto;">
